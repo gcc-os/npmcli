@@ -1,0 +1,26 @@
+{
+  "name": "npmcomdemo",
+  "version": "0.0.1",
+  "bin": {
+    "cammandrichietest": "./index.js",
+    "cammandrichietestp": "./cons.js"
+  },
+  "description": "npm command demo npm命令的使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcc-os/npmcli.git"
+  },
+  "author": "gcc.richie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcc-os/npmcli/issues"
+  },
+  "homepage": "https://github.com/gcc-os/npmcli#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
