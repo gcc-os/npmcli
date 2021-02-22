@@ -20,3 +20,5 @@ vue-cli 实际上是个脚本文件，通过全局安装，能够在命令中直
 
 或者使用 npx：
 `$ npm install vue-cli $ npx vue-cli init proj-name`
+
+### 使用方式：
